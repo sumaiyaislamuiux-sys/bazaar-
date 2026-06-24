@@ -28,7 +28,10 @@ a:hover {
 /* All Common CSS End Here */
 
 /* All Product Category Start Here */
-
+#productCategory{
+  padding: 100px 0;
+  background: white;
+}
 /* All Product Category End Here */
 
 
